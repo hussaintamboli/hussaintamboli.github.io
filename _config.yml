@@ -1,5 +1,7 @@
+title: For Stack, that never gets Full
+author: Hussain Tamboli
 theme: jekyll-whiteglass
-gems:
+plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
@@ -18,3 +20,4 @@ jekyll-archives:
     tag: /tags/:name/
 
 google_analytics: UA-37500543-1
+comments: true

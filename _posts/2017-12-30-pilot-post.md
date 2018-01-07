@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2017-12-30 06:33:06 +0800
-categories: jekyll github-pages
-location: Singapore
+title:  Hello World
+date:   2017-01-06 06:33:06 +0800
+description: How to create a blog using Jekyll and Github pages?
+keywords: jekyll, github pages, blogging, themes
+categories: General
+tags:
+  - jekyll
+  - github-pages
 ---
 
-I want to use this blog for sharing my thoughts. Being a Programmer, it's mostly going to be technical I guess. But you would surprised to know how random my thoughts can be.
+I want to use this blog for sharing my thoughts. Being a Programmer, it's mostly going to be technical stuff I guess. But you would surprised to know how random my thoughts can be.
 
-I have been seeing lots of blogs created using [Jekyll][jekyll-website] and [Github Pages][github-pages] these days. After giving it a try, I liked it. I think people in Technical fields will like it. Because it's some technical things involved.
+I have been seeing lots of sites created using [Jekyll][jekyll-website] and [Github Pages][github-pages] these days. After giving it a try, I liked it and I created this site. I think people in Technical fields will like it. Because it's some technical things involved.
 
 If you don't know how it works, there are some good resources out there.
 
