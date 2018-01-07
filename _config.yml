@@ -1,6 +1,6 @@
 title: For Stack, that never gets Full
 author: Hussain Tamboli
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
