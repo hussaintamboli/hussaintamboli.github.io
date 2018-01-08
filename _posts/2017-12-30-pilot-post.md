@@ -25,10 +25,18 @@ What's next? A blog needs to have commenting and some analytics. After  whitegla
 
 I guess I am all set for now. Here we go.  
 
+
+#### Update (2018-01-07)
+Actually I was facing some issues in making this blog live on hussaintamboli.github.io. [@Yous][yous-github] (the author of whiteglass) [helped][issue-link] me out.
+
+
 [github-pages]: https://help.github.com/categories/github-pages-basics/
 [jekyll-website]: http://jekyllrb.com/
 [jonathan-mcglone]: http://jmcglone.com/guides/github-pages/
 [barry-clark]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [disqus-jekyll]: http://stackoverflow.com/questions/21446165/how-do-i-use-disqus-comments-in-github-pages-blog-markdown
-[whiteglass]: # todo Whiteglass link
-[jekyll-themes]: # todo jekyll themes link
+[yous-github]: https://github.com/yous
+[whiteglass]: https://github.com/yous/whiteglass
+[jekyll-themes]: http://jekyllthemes.org/
+[yous-github]: https://github.com/yous
+[issue-link]: https://github.com/yous/whiteglass/issues/18
