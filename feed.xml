@@ -5,7 +5,7 @@
   
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2018-01-08T04:58:04+00:00</updated>
+  <updated>2018-01-08T08:10:29+00:00</updated>
   <id>//</id>
 
   
@@ -43,11 +43,14 @@
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/&quot;&gt;Build A Blog With Jekyll And GitHub Pages by Barry Clark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;There are lots of &lt;a href=&quot;# todo jekyll themes link&quot;&gt;Jekyll themes&lt;/a&gt; out there too if you don’t want to style your blog yourself. I chose &lt;a href=&quot;# todo Whiteglass link&quot;&gt;whiteglass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are lots of &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll themes&lt;/a&gt; out there too if you don’t want to style your blog yourself. I chose &lt;a href=&quot;https://github.com/yous/whiteglass&quot;&gt;whiteglass&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What’s next? A blog needs to have commenting and some analytics. After  whiteglass took care of Google analytics, I just had &lt;a href=&quot;http://stackoverflow.com/questions/21446165/how-do-i-use-disqus-comments-in-github-pages-blog-markdown&quot;&gt;to plug&lt;/a&gt; Disqus for commenting. It’s like using microservices.&lt;/p&gt;
 
-&lt;p&gt;I guess I am all set for now. Here we go.&lt;/p&gt;</content>
+&lt;p&gt;I guess I am all set for now. Here we go.&lt;/p&gt;
+
+&lt;h4 id=&quot;update-2018-01-07&quot;&gt;Update (2018-01-07)&lt;/h4&gt;
+&lt;p&gt;Actually I was facing some issues in making this blog live on hussaintamboli.github.io. &lt;a href=&quot;https://github.com/yous&quot;&gt;@Yous&lt;/a&gt; (the author of whiteglass) &lt;a href=&quot;https://github.com/yous/whiteglass/issues/18&quot;&gt;helped&lt;/a&gt; me out.&lt;/p&gt;</content>
 
       
       
